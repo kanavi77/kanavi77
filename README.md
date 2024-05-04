@@ -6,4 +6,4 @@
 💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Jiahao’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kanavi77&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Jiahao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanavi77&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
