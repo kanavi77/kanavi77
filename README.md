@@ -1,10 +1,21 @@
-# 👋 Hi, I'm Magdeline!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jiahao Huang, your friendly neighborhood code wizard! 🧙‍♂️
 
+👨🏻‍💻 As a Software Engineer, I don't just write code—I craft digital masterpieces!<br/> 🎨 I believe in infusing creativity and humor into every project, making the development process a joyful adventure<br/>
+🌍 Based in the vibrant city of SINGAPORE<br/>
+✉️  Catch me if you can at  [aaronjiahao0210@gmail.com](mailto:aaronjiahao0210@gmail.com)<br/>
+🎓 My Educational Odyssey:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;2023 - 2025: National University of Singapore - Where I'm leveling up my coding superpowers! 💪<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;2019 - 2023: Northwest A&F University - The place where my passion for programming blossomed! 🌸<br/>
+🧠  Currently Geeking Out On: <br/>&nbsp;&nbsp;&nbsp;&nbsp;👾 Advanced Software Development - Because there's always room for improvement! <br/>&nbsp;&nbsp;&nbsp;&nbsp;🤖 Large Language Model (LLM) Integration and Applications - Chatbots need love too, right?<br/>
+💻 Passionate about building scalable and efficient software systems<br/>
+🔭 Exploring cutting-edge technologies and industry best practices<br/>
+🌱 Continuously learning and expanding my skillset<br/>
+💬 Collaborative coding enthusiast, always open to new challenges!<br/>
+⚡ Fun Fact: When I'm not coding, you can find me swimming 🏊‍♂️ and playing table tennis 🏓
+
+# 🌐 Socials
+
+<p align="left"> <a href="https://www.github.com/kanavi77" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aaron0210" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https:///jiahao0210.netlify.app/#about" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a></p>
 
 
 # 💻 Tech Stack:
