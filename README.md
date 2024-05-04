@@ -6,7 +6,8 @@
 🎓 My Educational Odyssey:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;2023 - 2025: National University of Singapore - Where I'm leveling up my coding superpowers! 💪<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;2019 - 2023: Northwest A&F University - The place where my passion for programming blossomed! 🌸<br/>
-🧠  Currently Geeking Out On: <br/>&nbsp;&nbsp;&nbsp;&nbsp;👾 Advanced Software Development - Because there's always room for improvement! <br/>&nbsp;&nbsp;&nbsp;&nbsp;🤖 Large Language Model (LLM) Integration and Applications - Chatbots need love too, right?<br/>
+🧠  Currently Geeking Out On: <br/>&nbsp;&nbsp;&nbsp;&nbsp;👾 Advanced Software Development - Because there's always room for improvement! <br/>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;🤖 Large Language Model (LLM) Integration and Applications - Chatbots need love too, right?<br/>
 💻 Passionate about building scalable and efficient software systems<br/>
 🔭 Exploring cutting-edge technologies and industry best practices<br/>
 🌱 Continuously learning and expanding my skillset<br/>
